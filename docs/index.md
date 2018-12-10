@@ -13,4 +13,4 @@ un elenco dei punti di forza di Topo Gigio:
 | 0 | 0  |
 | 00 | 0  |
 
-![GitHub image](img/topo_gigio.jpg)
+(img/topo_gigio.jpg)
